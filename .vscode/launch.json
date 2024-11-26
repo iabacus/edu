@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LombokEquals",
+            "request": "launch",
+            "mainClass": "kr.co.abacus.javamain.LombokEquals",
+            "projectName": "edu"
+        },
+        {
+            "type": "java",
+            "name": "LombookEqMain",
+            "request": "launch",
+            "mainClass": "kr.co.abacus.javamain.LombookEqMain",
+            "projectName": "edu"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-EduApplication<edu>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
